@@ -1,0 +1,26 @@
+Thoughts:
+
+Dealing with projectiles was suprisingly easy
+I lacked enemy variety, but 2 enemies isnt bad
+
+
+15 more mins:
+
+Gun doesnt animated but that will be fixed later
+Make bullets not hit other enemies, or at least injure them
+Shotgun should do more damage
+Cap max health
+fix shotgun spam
+
+
+1 More hour:
+
+Make it less floaty
+shotgun should have some crunchy sounds but its really fun
+enemies should have prediction when shooting
+Particle Effects !!!!!!
+Better wave system
+Sound effects for everything
+Hellhound style enemy, every 5 waves
+More natural wave spawning
+Add in gun model

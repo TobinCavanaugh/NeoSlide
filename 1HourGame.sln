@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7379493a-9366-6bd0-5ef3-37132fd71119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hierarchy2.Runtime", "Hierarchy2.Runtime.csproj", "{7ca2962f-b501-73f4-e74b-0434e7ee26cd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hierarchy2.Editor", "Hierarchy2.Editor.csproj", "{7e30fd6e-d959-8396-fb66-a48e2fead0c5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7379493a-9366-6bd0-5ef3-37132fd71119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7379493a-9366-6bd0-5ef3-37132fd71119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ca2962f-b501-73f4-e74b-0434e7ee26cd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ca2962f-b501-73f4-e74b-0434e7ee26cd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7e30fd6e-d959-8396-fb66-a48e2fead0c5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7e30fd6e-d959-8396-fb66-a48e2fead0c5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

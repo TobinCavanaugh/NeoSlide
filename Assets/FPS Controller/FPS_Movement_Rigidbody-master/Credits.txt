@@ -1,0 +1,6 @@
+Movement:
+https://github.com/DaniDevy/FPS_Movement_Rigidbody
+
+Weapon Sway:
+https://www.youtube.com/watch?v=nlcIz-czKyI&t=1085s
+https://www.youtube.com/watch?v=45ssV6CEgoU&t=774s
