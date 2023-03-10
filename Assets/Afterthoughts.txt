@@ -4,7 +4,7 @@ Dealing with projectiles was suprisingly easy
 I lacked enemy variety, but 2 enemies isnt bad
 
 
-15 more mins:
+==== 15 more mins ==== 
 
 Gun doesnt animated but that will be fixed later
 Make bullets not hit other enemies, or at least injure them
@@ -13,7 +13,7 @@ Cap max health
 fix shotgun spam
 
 
-1 More hour:
+==== 1 More hour ==== 
 
 Make it less floaty
 shotgun should have some crunchy sounds but its really fun
@@ -24,3 +24,25 @@ Sound effects for everything
 Hellhound style enemy, every 5 waves
 More natural wave spawning
 Add in gun model
+Combos would be sweet
+
+
+===== Steam Stuff ==== 
+
+Achievements:
+[Added] - [Name] - [Description] - [Icon]
+
+[ ] Self Defense Situation - Kill 100 red enemies - Icon of multiple red enemies looking at camera
+[ ] Flying in the sky - Stay airborne for 30 seconds - Icon of white bean with wings, blue BG, and white clouds
+[ ] Light Speed Velocity - Move at a velocity of [XXX] m/s
+[ ] Speed never hurt anyone, its the sudden change in speed that does you in - Change from a velocity of [XXX] m/s or greater to a velocity of less than [XXX] - Icon of a white bean stuck into a cracked wall
+[ ] NeoSlide Enjoyer - Kill an enemy while sliding - Dynamic image of white bean sliding shooting gun
+[ ] Area Of Effect - Kill Three enemies with one shot from the shotgun - Image of 3 enemies with a red circle around them
+[ ] Wavemaster - Complete 25 rounds in wave mode without dying
+
+Pictures:
+https://steamcommunity.com/groups/steamworks/announcements/detail/1597002662762032240
+[ ] 600px x 900px For library capsule, in library icon
+[ ] 3840px x 1240px For library hero banner, banner on selected game
+[X] 1280px x 720px For product logo
+

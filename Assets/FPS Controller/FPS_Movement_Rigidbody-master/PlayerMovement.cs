@@ -53,8 +53,9 @@ public class PlayerMovement : MonoBehaviour {
 
     [Header("Animation")]
     public Animator itemParentAnimator;
-    private static int moveHash = Animator.StringToHash("Moving"); 
+    private static int moveHash = Animator.StringToHash("Moving");
 
+    public KeyCode crouchKey = KeyCode.Mouse1;
 
     void Awake() {
         rb = GetComponent<Rigidbody>();
@@ -82,7 +83,7 @@ public class PlayerMovement : MonoBehaviour {
         x = Input.GetAxisRaw("Horizontal");
         y = Input.GetAxisRaw("Vertical");
         jumping = Input.GetButton("Jump");
-        crouching = Input.GetKey(KeyCode.LeftControl);
+        crouching = Input.GetKey(crouchKey);
 
 
         if (x != 0 || y != 0)
@@ -95,9 +96,9 @@ public class PlayerMovement : MonoBehaviour {
         }
         
         //Crouching
-        if (Input.GetKeyDown(KeyCode.LeftControl))
+        if (Input.GetKeyDown(crouchKey))
             StartCrouch();
-        if (Input.GetKeyUp(KeyCode.LeftControl))
+        if (Input.GetKeyUp(crouchKey))
             StopCrouch();
         
     }
